@@ -1,6 +1,7 @@
 OVERVIEW:
 - This is a Point-of_Sales application created to support for business owners in managing their customer transactions, sales information, employee tasks and inventory.
 - It can be run on PC and interacted by mouse clicking.
+- Programming language used: Python
 
 Here is the App's Graphical User Interface design:
 
