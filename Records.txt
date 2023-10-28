@@ -1,0 +1,22 @@
+Employee: Marvel
+Date: Friday 06 May - 22:35:43 PM
+
+Customer: Fish
+Address: F street
+Phone: 0456789123
+Total Purchase: $21046.095
+
+Receipt Details ---
+
+['Armchair', 1, 299]
+['Vintage Sofa', 1, 199]
+['Hammock Chair', 1, 329]
+['Velvet Chair', 1, 429]
+['Sofa Set', 1, 3599]
+['Luxury Sofa', 1, 5689]
+['Seaview Outdoor Sofa', 1, 2589]
+['White Bed', 1, 7569]
+['Kid Bed', 1, 1569]
+
+-----------------------
+
