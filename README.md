@@ -10,3 +10,6 @@ Here is the App's Graphical User Interface design:
 This is a graphical UML classes:
 
 <img width="615" alt="graphical_uml_classes" src="https://github.com/keasark/interior_pos_app/assets/76891395/a03389d3-f6d0-4284-80fb-af39c1b9f25e">
+
+Demo Run:
+![image](https://github.com/keasark/interior_pos_app/assets/76891395/f3772314-a0fe-47e4-9c64-bc09c25c1be1)
